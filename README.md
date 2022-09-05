@@ -1,3 +1,0 @@
-# AndroidStudy
-## hi
-### my name
